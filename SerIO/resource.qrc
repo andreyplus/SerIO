@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Icons/serio-16.png</file>
+        <file>Icons/serio-24.png</file>
+        <file>Icons/serio-32.png</file>
+        <file>Icons/serio-48.png</file>
+        <file>Icons/serio-64.png</file>
+        <file>Icons/serio-128.png</file>
+        <file>Icons/serio-256.png</file>
+        <file>Icons/serio-win.ico</file>
+        <file>Icons/BasedOnQt.png</file>
+    </qresource>
+    <qresource prefix="/files">
+        <file>serio.html</file>
+    </qresource>
+</RCC>

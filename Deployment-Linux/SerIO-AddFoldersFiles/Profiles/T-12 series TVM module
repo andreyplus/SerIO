@@ -1,0 +1,62 @@
+9600
+8-N-1
+NONE
+Clone A
+Clone A
+Clone A
+50
+CHAR
+Unsigned
+AUTO
+SingleOFF
+MarkerRxOFF
+WordWrapON
+CHAR
+ASCII
+LF
+LocalEchoON
+MarkerTxOFF
+AB
+
+ASCII DEC symbols 10
+
+
+CHAR
+$I
+LF
+CHAR
+$S1
+LF
+CHAR
+$S0
+LF
+CHAR
+$U9600
+LF
+CHAR
+$U115200
+LF
+CHAR
+$r
+LF
+CHAR
+@x12
+LF
+CHAR
+@(4,2V)
+LF
+CHAR
+@(12.6V)
+LF
+CHAR
+@(120mA)
+LF
+CHAR
+@(47uF)
+LF
+CHAR
+@(1200rpm)
+LF
+Table F1
+Clone A
+1000
