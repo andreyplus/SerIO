@@ -21,13 +21,13 @@
 - Windows(x32/x64): 7, 8, 10
 
 ## Инструкция по установке
-- **Linux**: `SerIO-30.tar.xz
+- **Linux**: [`SerIO-30.tar.xz`](https://github.com/andreyplus/SerIO/releases/download/v3.0.0/SerIO-30.tar.xz)
   - Распакуйте папку SerIO в домашнюю директорию `/home/user/` (замените "user" на ваше имя пользователя).
   - Для установки выполните в терминале: `~/SerIO/install.sh`
   - Для удаления выполните в терминале: `~/SerIO/uninstall.sh`
   - Дополнительная информация находится в файле: `/SerIO/READMY.txt`
 
-- **Windows**: `SerIO-30.exe`
+- **Windows**: [`SerIO-30.exe`](https://github.com/andreyplus/SerIO/releases/download/v3.0.0/SerIO-30.exe)
 - **Mac OS**: В разработке… Помощь в сборке для MacOS категорически приветствуется!
 
 ### Изменения в версии SerIO 3.0:

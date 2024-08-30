@@ -22,13 +22,13 @@ Tested on the following operating systems:
 - Windows(x32/x64): 7, 8, 10
 
 ## Installation Guide
-- **Linux**: `SerIO-30.tar.xz (Current)`
+- **Linux**: [`SerIO-30.tar.xz`](https://github.com/andreyplus/SerIO/releases/download/v3.0.0/SerIO-30.tar.xz)
   - Unpack the SerIO folder to your home directory `/home/user/` (replace "user" with your username).
   - To install, run in terminal: `~/SerIO/install.sh`
   - To uninstall, run in terminal: `~/SerIO/uninstall.sh`
   - Additional information can be found in the file: `/SerIO/READMY.txt`
 
-- **Windows**: `SerIO-30.exe`
+- **Windows**: [`SerIO-30.exe`](https://github.com/andreyplus/SerIO/releases/download/v3.0.0/SerIO-30.exe)
 - **Mac OS**: In preparation… Assistance with building for MacOS is highly appreciated!
 
 ### Changes in SerIO 3.0:
